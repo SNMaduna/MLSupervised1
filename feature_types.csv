@@ -1,0 +1,6 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,y,age_group,contacted_before,balance_to_age_ratio
+30,management,married,tertiary,no,357,yes,no,cellular,8,apr,78,2,289,2,no,Youth,1,11.516129032258064
+56,technician,married,tertiary,no,1062,no,no,unknown,20,jun,37,2,-1,0,no,Middle-aged,0,18.63157894736842
+36,admin.,single,tertiary,no,918,yes,no,cellular,16,apr,127,2,-1,0,no,Adult,0,24.81081081081081
+60,technician,married,secondary,no,294,no,no,telephone,18,dec,104,5,198,4,no,Middle-aged,1,4.819672131147541
+51,retired,married,secondary,no,3003,yes,no,cellular,7,jul,149,3,-1,0,no,Middle-aged,0,57.75
